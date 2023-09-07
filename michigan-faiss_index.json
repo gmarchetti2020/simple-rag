@@ -1,0 +1,1 @@
+{"sql_url": "sqlite:///faiss_document_store_michigan.db", "embedding_dim": 768, "faiss_index_factory_str": "HNSW", "similarity": "cosine", "return_embedding": true, "duplicate_documents": "skip"}
